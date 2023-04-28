@@ -1,0 +1,55 @@
+###########################################
+# Syntax Coloring Map For Crono-library
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+Crono	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+restart		KEYWORD2
+	
+isActive	KEYWORD2
+	
+getPrecision	KEYWORD2
+
+elapse2millis	KEYWORD2
+	
+elapse2micros		KEYWORD2
+	
+elapse2seconds		KEYWORD2
+	
+stop2micros		KEYWORD2
+	
+stop2millis		KEYWORD2
+	
+stop2seconds		KEYWORD2
+	
+hasPassedMillis		KEYWORD2
+
+hasPassedMillis		KEYWORD2
+	
+hasPassedSeconds		KEYWORD2
+
+hasPassedSeconds		KEYWORD2
+	
+hasPassedMillis		KEYWORD2
+
+hasPassedMillis		KEYWORD2
+
+hasPassedSeconds		KEYWORD2
+
+hasPassedSeconds		KEYWORD2
+
+waitMillis		KEYWORD2
+
+waitMillis		KEYWORD2
+
+waitMillisuntil		KEYWORD2
+
+waitMillisuntil		KEYWORD2
