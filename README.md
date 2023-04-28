@@ -23,7 +23,7 @@ https://www.arduino.cc/en/software
 _Descaarga el repositorio como ZIP con el siguiente enlace_
 
 ```
-https://github.com/Seeed-Studio/Grove_Temperature_And_Humidity_Sensor/archive/refs/heads/master.zip
+[https://github.com/Raquel-RP/CronoArduinoLibrary/archive/refs/heads/main.zip]
 ```
 
 _Una vez descargado, conel software Arduino abierto, ve al apartado Sketch > Include Library >  Add .ZIP Library_
