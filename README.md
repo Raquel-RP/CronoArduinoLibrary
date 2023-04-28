@@ -1,4 +1,4 @@
-# Título del Proyecto
+# Librería de Cronómetro para Arduino
 
 _Cronómetro de alta precisión para sistemas Arduino para la asignatura Programación de Sistema Empotrados y de Tiempo Real_
 
